@@ -1,1 +1,1 @@
-Print
+print("4")
