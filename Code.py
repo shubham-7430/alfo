@@ -1,1 +1,3 @@
-print("40")
+print("Hi")
+print("2001")
+
