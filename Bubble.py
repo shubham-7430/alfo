@@ -1,5 +1,2 @@
-print("Whole number from 1 10 100 are:)
-for(i=0;i<101;i++)
-{
-  print(i)
-}
+print("hI")
+print("It's my 3rd PR")
